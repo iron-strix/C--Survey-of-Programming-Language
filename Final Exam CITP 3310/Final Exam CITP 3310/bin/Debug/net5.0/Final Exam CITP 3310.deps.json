@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Final Exam CITP 3310/1.0.0": {
+        "runtime": {
+          "Final Exam CITP 3310.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final Exam CITP 3310/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

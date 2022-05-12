@@ -1,0 +1,16 @@
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\bin\Debug\net5.0\Final Exam CITP 3310.exe
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\bin\Debug\net5.0\Final Exam CITP 3310.deps.json
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\bin\Debug\net5.0\Final Exam CITP 3310.runtimeconfig.json
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\bin\Debug\net5.0\Final Exam CITP 3310.runtimeconfig.dev.json
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\bin\Debug\net5.0\Final Exam CITP 3310.dll
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\bin\Debug\net5.0\ref\Final Exam CITP 3310.dll
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\bin\Debug\net5.0\Final Exam CITP 3310.pdb
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\obj\Debug\net5.0\Final Exam CITP 3310.csproj.AssemblyReference.cache
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\obj\Debug\net5.0\Final Exam CITP 3310.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\obj\Debug\net5.0\Final Exam CITP 3310.AssemblyInfoInputs.cache
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\obj\Debug\net5.0\Final Exam CITP 3310.AssemblyInfo.cs
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\obj\Debug\net5.0\Final Exam CITP 3310.csproj.CoreCompileInputs.cache
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\obj\Debug\net5.0\Final Exam CITP 3310.dll
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\obj\Debug\net5.0\ref\Final Exam CITP 3310.dll
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\obj\Debug\net5.0\Final Exam CITP 3310.pdb
+C:\Users\nigel\source\repos\Final Exam CITP 3310\Final Exam CITP 3310\obj\Debug\net5.0\Final Exam CITP 3310.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\nigel\source\repos\Assign7\Assign7\bin\Debug\net5.0\Assign7.exe
+C:\Users\nigel\source\repos\Assign7\Assign7\bin\Debug\net5.0\Assign7.deps.json
+C:\Users\nigel\source\repos\Assign7\Assign7\bin\Debug\net5.0\Assign7.runtimeconfig.json
+C:\Users\nigel\source\repos\Assign7\Assign7\bin\Debug\net5.0\Assign7.runtimeconfig.dev.json
+C:\Users\nigel\source\repos\Assign7\Assign7\bin\Debug\net5.0\Assign7.dll
+C:\Users\nigel\source\repos\Assign7\Assign7\bin\Debug\net5.0\ref\Assign7.dll
+C:\Users\nigel\source\repos\Assign7\Assign7\bin\Debug\net5.0\Assign7.pdb
+C:\Users\nigel\source\repos\Assign7\Assign7\obj\Debug\net5.0\Assign7.csproj.AssemblyReference.cache
+C:\Users\nigel\source\repos\Assign7\Assign7\obj\Debug\net5.0\Assign7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigel\source\repos\Assign7\Assign7\obj\Debug\net5.0\Assign7.AssemblyInfoInputs.cache
+C:\Users\nigel\source\repos\Assign7\Assign7\obj\Debug\net5.0\Assign7.AssemblyInfo.cs
+C:\Users\nigel\source\repos\Assign7\Assign7\obj\Debug\net5.0\Assign7.csproj.CoreCompileInputs.cache
+C:\Users\nigel\source\repos\Assign7\Assign7\obj\Debug\net5.0\Assign7.dll
+C:\Users\nigel\source\repos\Assign7\Assign7\obj\Debug\net5.0\ref\Assign7.dll
+C:\Users\nigel\source\repos\Assign7\Assign7\obj\Debug\net5.0\Assign7.pdb
+C:\Users\nigel\source\repos\Assign7\Assign7\obj\Debug\net5.0\Assign7.genruntimeconfig.cache

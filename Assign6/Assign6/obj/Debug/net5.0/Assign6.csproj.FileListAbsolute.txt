@@ -1,0 +1,16 @@
+C:\Users\nigel\source\repos\Assign6\Assign6\bin\Debug\net5.0\Assign6.exe
+C:\Users\nigel\source\repos\Assign6\Assign6\bin\Debug\net5.0\Assign6.deps.json
+C:\Users\nigel\source\repos\Assign6\Assign6\bin\Debug\net5.0\Assign6.runtimeconfig.json
+C:\Users\nigel\source\repos\Assign6\Assign6\bin\Debug\net5.0\Assign6.runtimeconfig.dev.json
+C:\Users\nigel\source\repos\Assign6\Assign6\bin\Debug\net5.0\Assign6.dll
+C:\Users\nigel\source\repos\Assign6\Assign6\bin\Debug\net5.0\ref\Assign6.dll
+C:\Users\nigel\source\repos\Assign6\Assign6\bin\Debug\net5.0\Assign6.pdb
+C:\Users\nigel\source\repos\Assign6\Assign6\obj\Debug\net5.0\Assign6.csproj.AssemblyReference.cache
+C:\Users\nigel\source\repos\Assign6\Assign6\obj\Debug\net5.0\Assign6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigel\source\repos\Assign6\Assign6\obj\Debug\net5.0\Assign6.AssemblyInfoInputs.cache
+C:\Users\nigel\source\repos\Assign6\Assign6\obj\Debug\net5.0\Assign6.AssemblyInfo.cs
+C:\Users\nigel\source\repos\Assign6\Assign6\obj\Debug\net5.0\Assign6.csproj.CoreCompileInputs.cache
+C:\Users\nigel\source\repos\Assign6\Assign6\obj\Debug\net5.0\Assign6.dll
+C:\Users\nigel\source\repos\Assign6\Assign6\obj\Debug\net5.0\ref\Assign6.dll
+C:\Users\nigel\source\repos\Assign6\Assign6\obj\Debug\net5.0\Assign6.pdb
+C:\Users\nigel\source\repos\Assign6\Assign6\obj\Debug\net5.0\Assign6.genruntimeconfig.cache

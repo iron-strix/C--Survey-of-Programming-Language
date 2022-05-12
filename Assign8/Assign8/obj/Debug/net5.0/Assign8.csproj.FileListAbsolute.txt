@@ -1,0 +1,16 @@
+C:\Users\nigel\source\repos\Assign8\Assign8\bin\Debug\net5.0\Assign8.exe
+C:\Users\nigel\source\repos\Assign8\Assign8\bin\Debug\net5.0\Assign8.deps.json
+C:\Users\nigel\source\repos\Assign8\Assign8\bin\Debug\net5.0\Assign8.runtimeconfig.json
+C:\Users\nigel\source\repos\Assign8\Assign8\bin\Debug\net5.0\Assign8.runtimeconfig.dev.json
+C:\Users\nigel\source\repos\Assign8\Assign8\bin\Debug\net5.0\Assign8.dll
+C:\Users\nigel\source\repos\Assign8\Assign8\bin\Debug\net5.0\ref\Assign8.dll
+C:\Users\nigel\source\repos\Assign8\Assign8\bin\Debug\net5.0\Assign8.pdb
+C:\Users\nigel\source\repos\Assign8\Assign8\obj\Debug\net5.0\Assign8.csproj.AssemblyReference.cache
+C:\Users\nigel\source\repos\Assign8\Assign8\obj\Debug\net5.0\Assign8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigel\source\repos\Assign8\Assign8\obj\Debug\net5.0\Assign8.AssemblyInfoInputs.cache
+C:\Users\nigel\source\repos\Assign8\Assign8\obj\Debug\net5.0\Assign8.AssemblyInfo.cs
+C:\Users\nigel\source\repos\Assign8\Assign8\obj\Debug\net5.0\Assign8.csproj.CoreCompileInputs.cache
+C:\Users\nigel\source\repos\Assign8\Assign8\obj\Debug\net5.0\Assign8.dll
+C:\Users\nigel\source\repos\Assign8\Assign8\obj\Debug\net5.0\ref\Assign8.dll
+C:\Users\nigel\source\repos\Assign8\Assign8\obj\Debug\net5.0\Assign8.pdb
+C:\Users\nigel\source\repos\Assign8\Assign8\obj\Debug\net5.0\Assign8.genruntimeconfig.cache
